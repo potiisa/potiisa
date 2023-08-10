@@ -1,10 +1,6 @@
-
-<h3 align="left">👩‍💻 Computer Science student</h3>
-
-# 📈 Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=potiisa&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="potiisa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=potiisa&show_icons=true&theme=tokyonight&locale=en" alt="potiisa" /></p>
+<h1 align="center">Hi👋, I'm Isabel!</h1>
+<h3 align="center">👩‍💻 Computer Science student</h3>
+<p align="center"> I'm currently studying Web devlopment, like HTML & CSS</p>
 
 # ⌨️ Programming Skills
 Here's a list of programming languages I'm knowledgeable in:
